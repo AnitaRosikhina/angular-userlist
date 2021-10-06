@@ -1,0 +1,23 @@
+.header {
+  background: whitesmoke;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid 2px gray;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px auto;
+}
+
+.width {
+  width: 48%;
+}
+
+.error {
+  color: red;
+  margin: 0 0 10px;
+}
